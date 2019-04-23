@@ -7,6 +7,6 @@ def prastevila_do(n):
             if n % i == 0:
                 break
         seznam.append(n)
-    return seznam
+    return seznamgksamlćbbbmtmtmtkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
-print(prastevila_do(200)) psobjkptšbjiropš
+print(prastevila_do(200))
